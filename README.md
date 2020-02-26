@@ -65,7 +65,7 @@ sensor:
 
 ## Issues & Feature Requests
 
-* Please see the [Issues Repository](https://github.com/MoBOatGVA/Elco-Remocom/issues).
+* Please see the [Issues Repository](https://github.com/MoBOatGVA/Elco-Remocon/issues).
 
 ## License
 
