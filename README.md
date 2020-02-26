@@ -21,7 +21,7 @@ This version is made to monitoring, analytics and control for Home-Assistant usi
 
 ## Preview
 
-![Script display](https://github.com/MoBOatGVA/Rika-Firenet/blob/master/elco_display.png)
+![Script display](https://github.com/MoBOatGVA/Elco-Remocon/blob/master/elco_display.png)
 
 ## Installation and Support
 
@@ -40,7 +40,7 @@ mqtt:
 * Add sensors in Home-Assistant (change topic according your elco.yaml)
 ```
 #########################################################################
-#                                 RIKA                                  #
+#                                 ELCO                                  #
 #########################################################################
 sensor:
 #region : Check Time
@@ -61,7 +61,7 @@ sensor:
 #endregion
 ```
 * More information can be added if needed from elco.py, line 168 (json_data=...)
-  - Check json_full_from_elco.txt for all available FIRENET fields (dump from the website) NOTE: To be added soon!
+  - Check json_full_from_elco.txt for all available REMOCON fields (dump from the website) NOTE: To be added soon!
 
 ## Issues & Feature Requests
 
